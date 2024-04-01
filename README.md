@@ -3,7 +3,9 @@
 Hello! I am Dias, Pedro Dias, pleased to make your acquaintance.
 
 I am a mechanical engineering student, currently woring on my master´s thesis.
-I love exploring and learning, also playing tenis and indie computer games.
+I love exploring and learning, also playing tennis and indie computer games.
+
+![image](https://github.com/PeterNoites/PeterNoites/assets/62885882/13996ade-decc-429a-99d8-b86f74265ee9) ![images](https://github.com/PeterNoites/PeterNoites/assets/62885882/6f45b6d0-c6b3-4e9e-a833-2a1bb362c2bd)
 
 Im pretty new to coding in general, I know the very basics but still am not confortable with github, repositories and such. :)
 
