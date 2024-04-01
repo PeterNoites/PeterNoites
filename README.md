@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello! I am Dias, Pedro Dias, pleased to make your acquaintance.
+
+I am a mechanical engineering student, currently woring on my master´s thesis.
+I love exploring and learning, also playing tenis and indie computer games.
+
+Im pretty new to coding in general, I know the very basics but still am not confortable with github, repositories and such. :)
+
+
 <!--
 **PeterNoites/PeterNoites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
